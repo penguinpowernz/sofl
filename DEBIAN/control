@@ -1,0 +1,12 @@
+Package: sofl
+Version: 0.0.1
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Robert <robert@penguinpower.co.nz>
+Essential: no
+Homepage: https://github.com/penguinpower/sofl
+Installed-Size: 
+Description: An interactive reverse lookup version of lsof
+  This is a longer description
+  that takes up multiple lines
